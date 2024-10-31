@@ -1,5 +1,8 @@
-tela de login:
+# CRUD de usuários
 
+Tarefa simples com um login e um crud de usuários, conectado com o banco de dados SQL.
+
+tela de login:
 
 ![Captura de Tela 2024-02-14 às 17 20 38](https://github.com/IsabelaTeixeira/cadastro/assets/101847085/3af8c58d-d92b-46e5-a476-d49ace480b00)
 
